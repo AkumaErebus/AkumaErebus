@@ -5,7 +5,6 @@
 - 📫 How to reach me naveenkumarbn1432003@gmail.com
 - 📄 Know about my experiences (Resume)https://drive.google.com/file/d/1L16w4aS4skuY_5ZAipgyvPjnKjxQ-esz/view?usp=sharing
 
-- Connect with me:
   
 <!---
 AkumaErebus/AkumaErebus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
