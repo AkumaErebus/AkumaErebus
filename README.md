@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @ B N Naveen Kumar
-- 👀 I’m interested in Game Development and Animation
-- 🌱 I’m currently learning Unity 
-- 👨‍💻 All of my projects are available at https://github.com/AkumaErebus
-- 📫 How to reach me naveenkumarbn1432003@gmail.com
-- 📄 Know about my experiences (Resume)https://drive.google.com/file/d/1L16w4aS4skuY_5ZAipgyvPjnKjxQ-esz/view?usp=sharing
+<h3 align="center">A passionate Game-Developer from India</h3>
 
-  
-<!---
-AkumaErebus/AkumaErebus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning **Unity 3D Blender**
+
+- 📫 How to reach me **naveenkumarbn1432003@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
